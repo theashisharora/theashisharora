@@ -16,7 +16,7 @@ Let's talk about my career, I studying in canada at Sheridan college learning to
 
 AND ONE DAY I WILL BE **SOFTWARE ENGINEER**.
 
-[LinkedIn](www.linkedin.com/in/ashish-arora-220b861b8)&nbsp;&nbsp;•&nbsp;&nbsp;[Mail](mailto:ashisharora23104@gmail.com)&nbsp;&nbsp;•&nbsp;&nbsp;[Instagram](https://www.instagram.com/the_ashish_arora/)
+[LinkedIn](www.linkedin.com/in/ashish-arora-220b861b8/)&nbsp;&nbsp;•&nbsp;&nbsp;[Mail](mailto:ashisharora2312004@gmail.com)&nbsp;&nbsp;•&nbsp;&nbsp;[Instagram](https://www.instagram.com/the_ashish_arora/)
 
 <br>
 
