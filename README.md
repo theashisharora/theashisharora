@@ -17,7 +17,6 @@ Let's talk about my career, I studying in canada at Sheridan college learning to
 AND ONE DAY I WILL BE **SOFTWARE ENGINEER**.
 
 [LinkedIn](www.linkedin.com/in/ashish-arora-220b861b8/)&nbsp;&nbsp;•&nbsp;&nbsp;[Mail](mailto:ashisharora2312004@gmail.com)&nbsp;&nbsp;•&nbsp;&nbsp;[Instagram](https://www.instagram.com/the_ashish_arora/)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <br>
 
@@ -63,3 +62,5 @@ If you'd love to support me in my journey, you can by me a [coffee here ☕️](
 
 <p align='center'><a href="https://twitter.com/saviomartin7">@saviomartin7<a> / <a href="mailto:saviomartin2007@gmail.com">saviomartin2007@gmail.com<a></p>
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=saviomartin&left_color=blue&left_text=Total%20Visitors&right_color=#0096c7'></p>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ashish-arora-220b861b8" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/ashish-arora-220b861b8?trk=profile-badge">Ashish Arora</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
