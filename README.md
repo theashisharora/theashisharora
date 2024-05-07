@@ -14,7 +14,9 @@ And That's All for the day --stay connected to read old boring talks....
 
 Let's talk about my career, I studying in canada at Sheridan college learning to be a engineer. In my intial days as an International student in Canada, I got my first as a **Order fullfillment associate** at **TForce logistics** and after struggle I got into the retail brand **Tommy Hilfiger** as **Sales associate**, After three months, I got recognized as **Lead Sales associate** at **Tommy Hilfiger**.
 
-[Twitter](http://twitter.com/saviomartin7)&nbsp;&nbsp;•&nbsp;&nbsp;[Mail](mailto:saviomartin2007@gmail.com)&nbsp;&nbsp;•&nbsp;&nbsp;[Instagram](http://instagram.com/saviomartin7)
+AND ONE DAY I WILL BE **SOFTWARE ENGINEER**.
+
+[LinkedIn](www.linkedin.com/in/ashish-arora-220b861b8)&nbsp;&nbsp;•&nbsp;&nbsp;[Mail](mailto:ashisharora23104@gmail.com)&nbsp;&nbsp;•&nbsp;&nbsp;[Instagram](https://www.instagram.com/the_ashish_arora/)
 
 <br>
 
