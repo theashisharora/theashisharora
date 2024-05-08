@@ -26,13 +26,11 @@ AND ONE DAY I WILL BE **SOFTWARE ENGINEER**.
   — **Me**
 - **_"Don't do something wrong. Always believe in God, he's the only one that can make things happens"_** <br>
   — **Mom**
-- **_"You’re a very kind and hardworking person! You're partner will be be lucky to have you! Keep up the good work!"_** <br>
+- **_"You’re a very kind and hardworking person! Your partner will be lucky to have you! Keep up the good work!"_** <br>
   — **Co-Worker**, sales associate at Tommy Hilfiger also like my Mother
   <br>
 
 ## Works
-
-Always curious about new ideas to create highly satisfying user interfaces, passionate on minimalism, and asthetic vibes. Here are the popular products I've created with React, Next.JS, TypeScript, and Tailwind.
 
 | Project           | Description                                                  | URL                                                          |
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
