@@ -50,4 +50,5 @@ If you'd love to support me in my journey, you can <a href='https://ko-fi.com/P5
 
 <p align='center'><a href="https://www.instagram.com/the_ashish_arora/">@theashisharora<a> / <a href="mailto:ashisharora2312004@gmail.com">ashisharora2312004@gmail.com<a></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://ca.linkedin.com/in/ashish-arora-220b861b8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://ca.linkedin.com/in/theashisharora2314)
+
