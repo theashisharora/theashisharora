@@ -50,10 +50,4 @@ If you'd love to support me in my journey, you can <a href='https://ko-fi.com/P5
 
 <p align='center'><a href="https://www.instagram.com/the_ashish_arora/">@theashisharora<a> / <a href="mailto:ashisharora2312004@gmail.com">ashisharora2312004@gmail.com<a></p>
 
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=theashisharora/README.md&left_color=blue&left_text=Total%20Visitors&right_color=#0096c7'></p>
-
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=saviomartin&left_color=blue&left_text=Total%20Visitors&right_color=#0096c7'></p>
-<body>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ashish-arora-220b861b8" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/ashish-arora-220b861b8?trk=profile-badge">Ashish Arora</a></div>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-</body>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://ca.linkedin.com/in/ashish-arora-220b861b8)
