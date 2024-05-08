@@ -16,28 +16,19 @@ Let's talk about my career, I studying in canada at Sheridan college learning to
 
 AND ONE DAY I WILL BE **SOFTWARE ENGINEER**.
 
-[LinkedIn](www.linkedin.com/in/ashish-arora-220b861b8/)&nbsp;&nbsp;•&nbsp;&nbsp;[Mail](mailto:ashisharora2312004@gmail.com)&nbsp;&nbsp;•&nbsp;&nbsp;[Instagram](https://www.instagram.com/the_ashish_arora/)
+[LinkedIn](https://ca.linkedin.com/in/ashish-arora-220b861b8?trk=profile-badge)&nbsp;&nbsp;•&nbsp;&nbsp;[Mail](mailto:ashisharora2312004@gmail.com)&nbsp;&nbsp;•&nbsp;&nbsp;[Instagram](https://www.instagram.com/the_ashish_arora/)
 
 <br>
 
 ## What people say about me:
 
-- **_"Keep up the good work. 14 years old! amazing. I wish I go that early of a start. At 14 I was a mess lol. I see big things in your future"_** <br>
-  — [**Brad Traversy**](https://www.youtube.com/traversymedia), 1.75 million+ subscribers on Youtube
-- **_"Your Twitter is insane. Great job on doing so much at such an early age!"_** <br>
-  — [**JavaScript Mastery**](https://www.youtube.com/c/JavaScriptMastery), 240K+ subscribers on YouTube
-- **_"You’re a very talented and admirable person! Glad I found you! Keep up the good work!"_** <br>
-  — [**Florin Pop**](https://www.youtube.com/florinpop), 133K+ subscribers on Youtube
+- **_"There's nothing you can't do. Solving each difficulties just makes you LEVELED UP"_** <br>
+  — **Me**
+- **_"Don't do something wrong. Always believe in God, he's the only one that can make things happens"_** <br>
+  — **Mom**
+- **_"You’re a very kind and hardworking person! You're partner will be be lucky to have you! Keep up the good work!"_** <br>
+  — **Co-Workers**, sales associate at Tommy Hilfiger also like my Mother
 - **_"You’re on next level boy. Just 14 and doing amazing things. I’m really inspired"_** <br>
-  — [**Pratham**](https://twitter.com/Prathkum), 159K+ followers on Twitter
-- **_"Right back at ya, Savio! Keep up the good work!"_** <br>
-  — [**Ahmad Awais**](https://twitter.com/MrAhmadAwais), GitHub star, Google Dev Expert
-- **_"Wow, congratulations and all the best! More power to you, Savio. :)"_** <br>
-  — [**Khushboo Verma**](https://twitter.com/khushboooverma), Software Engineer @Microsoft, 50k+ followers on Twitter
-- **_"you're killing it man at the age of 14!"_** <br>
-  — [**Csaba Kissi**](https://twitter.com/csaba_kissi), 60K+ Followers on Twitter
-
-<br>
 
 ## Works
 
@@ -45,18 +36,15 @@ Always curious about new ideas to create highly satisfying user interfaces, pass
 
 | Project           | Description                                                  | URL                                                          |
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Iframe**        | Create quality broswer mockups for product presentations.    | [iframe.so](https://iframe.so/)                              |
-| **CodeHouse**     | Open source collection of developer cheatsheets.             | [codehouse.vercel.app](https://codehouse.vercel.app/)        |
-| **Slickr**        | Visual tool for creating beautiful blog cover images.        | [slickr.vercel.app](https://slickr.vercel.app/)              |
-| **Lofi Club**     | 24/7 Lofi music to help you learn or study for productively. | [loficlub.vercel.app](https://loficlub.vercel.app/)          |
-| **Gradient King** | Create & Browse beautiful gradients for designers.           | [gradient-king.vercel.app](https://gradient-king.vercel.app) |
+| **Nothing Yet**   |                  **But Coming Soon**                         | 
+                            
 
 <br>
 
 #
-If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/saviomartin7)
+If you'd love to talk, just send me a [DM on Instagram](https://www.instagram.com/the_ashish_arora/)
 
-If you'd love to support me in my journey, you can by me a [coffee here ☕️](https://ko-fi.com/savio).
+If you'd love to support me in my journey, you can by me a [coffee here ☕️](<a href='https://ko-fi.com/P5P8XUA7W' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>).
 
 <br>
 
