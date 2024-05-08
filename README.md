@@ -44,7 +44,7 @@ Always curious about new ideas to create highly satisfying user interfaces, pass
 #
 If you'd love to talk, just send me a [DM on Instagram](https://www.instagram.com/the_ashish_arora/)
 
-If you'd love to support me in my journey, you can by me a <a href='https://ko-fi.com/P5P8XUA7W' target='_blank'><img height='36' style='border:0px;height:20px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>.
+If you'd love to support me in my journey, you can by me a <a href='https://ko-fi.com/P5P8XUA7W' target='_blank'><img height='36' style='border:0px;height:36px;top:100px' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>.
 
 <br>
 
