@@ -27,7 +27,7 @@ AND ONE DAY I WILL BE **SOFTWARE ENGINEER**.
 - **_"Don't do something wrong. Always believe in God, he's the only one that can make things happens"_** <br>
   — **Mom**
 - **_"You’re a very kind and hardworking person! You're partner will be be lucky to have you! Keep up the good work!"_** <br>
-  — **Co-Workers**, sales associate at Tommy Hilfiger also like my Mother
+  — **Co-Worker**, sales associate at Tommy Hilfiger also like my Mother
   <br>
 
 ## Works
