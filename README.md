@@ -28,7 +28,7 @@ AND ONE DAY I WILL BE **SOFTWARE ENGINEER**.
   — **Mom**
 - **_"You’re a very kind and hardworking person! You're partner will be be lucky to have you! Keep up the good work!"_** <br>
   — **Co-Workers**, sales associate at Tommy Hilfiger also like my Mother
-- **_"You’re on next level boy. Just 14 and doing amazing things. I’m really inspired"_** <br>
+  <br>
 
 ## Works
 
