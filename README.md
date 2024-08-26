@@ -34,7 +34,7 @@ AND ONE DAY I WILL BE **SOFTWARE ENGINEER**.
 
 | Project           | Description                                                  | URL                                                          |
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Rock-Paper-Scissors Challenge**   |                  **Developed an engaging Rock-Paper-Scissors game using HTML and CSS**                         | 
+| **Rock-Paper-Scissors Challenge**   |                  **Developed an engaging Rock-Paper-Scissors game using HTML and CSS**                         | https://theashisharora.github.io/project1/
                             
 
 <br>
