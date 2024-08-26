@@ -34,7 +34,7 @@ AND ONE DAY I WILL BE **SOFTWARE ENGINEER**.
 
 | Project           | Description                                                  | URL                                                          |
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Nothing Yet**   |                  **But Coming Soon**                         | 
+| **Rock-Paper-Scissors Challenge**   |                  **Developed an engaging Rock-Paper-Scissors game using HTML and CSS**                         | 
                             
 
 <br>
